@@ -1,0 +1,34 @@
+{
+  "name": "pug_sass_starter_project",
+  "version": "1.0.0",
+  "description": "This is my PUG and SASS starter project",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "author": "denis pitlyak",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-data": "^1.3.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "path": "^0.12.7",
+    "pug": "^2.0.3"
+  },
+  "dependencies": {
+    "pug-cli": "^1.0.0-alpha6"
+  },
+  "keywords": [
+    "pug",
+    "sass",
+    "startet",
+    "project",
+    "html",
+    "css"
+  ]
+}
